@@ -664,8 +664,13 @@ color: black;
    color: white;
     
     }
+  .signupfor{
+      position: relative;
+    }
     .signupfor input{
+      position: relative;
       padding: 10px;
+      width: 100%;
     }
     .signupfor button{
       margin: 10px 0 ;
