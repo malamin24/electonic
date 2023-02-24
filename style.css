@@ -695,7 +695,9 @@ color: black;
     .search{display: none;}
     .login_chat{display: none;}
     .login_chat span a{display: block;}
-     .logo h1{marging:0;}
+      .logo h1{
+      margin: 0;
+    }
     .social_icon {display: none;}
     .menu_top{display: none;}    
     }
