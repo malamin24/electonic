@@ -101,6 +101,7 @@ h2::after {
   margin: 5px;
  cursor: pointer;
 font-size: 30px;
+    display: none;
 
 
   }
