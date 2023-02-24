@@ -655,6 +655,8 @@ color: black;
   margin: 0 5px;
   border: 1px solid #dddddd88;
   line-height: 40px;
+     overflow-wrap: break-word;
+  text-decoration: none;
   
   }
   .tags a:hover{
