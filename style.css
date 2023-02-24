@@ -707,6 +707,10 @@ color: black;
       margin: 0;
     }
     .social_icon {display: none;}
-    .menu_top{display: none;}    
+    .menu_top{display: none;}   
+    h2::before{ width: 8%; }
+    h2::after { width: 8%; }
+        
+        
     }
     
